@@ -40,3 +40,17 @@ accurately structured for easy analysis.
 
 ● Working with Excel Files in Python
 
+# Screenshots 
+
+## Vscode Screenshot 
+
+![vscode_ss](https://github.com/Akash-moon/RateGain_Task/assets/83701120/fca0aa57-d67c-4c1c-a619-cdebfa9fcaec)
+
+
+## CSV File Screenshot
+
+![Excel_ss](https://github.com/Akash-moon/RateGain_Task/assets/83701120/f959f018-26b3-4b81-957e-4289b90e9a3f)
+
+# Video Link 
+
+## Link - [Watch Here](https://d8it4huxumps7.cloudfront.net/uploads/submissions/files/595940/656032bdc026b_web_py_wwbscrappython_visual_studio_code_2023_11_24_10_33_31_1.mp4)
