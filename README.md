@@ -16,6 +16,7 @@ are highlighted in red.
 
 This task is not limited to a single page. You must navigate through various pages to gather
 data comprehensively. Your application should extract the following details:
+
 ● Blog title: Capture the titles of the blog posts.
 
 ● Blog date: Retrieve the publication dates of each blog post.
