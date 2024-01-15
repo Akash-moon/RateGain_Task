@@ -1,0 +1,11 @@
+Scraping of page-1 completed at 2024-01-15 23:51:14. Data saved to blog_data.csv
+Scraping of page-2 completed at 2024-01-15 23:51:28. Data saved to blog_data.csv
+Scraping of page-1 completed at 2024-01-16 00:11:50. Data saved to blog_data.csv
+Scraping of page-2 completed at 2024-01-16 00:12:03. Data saved to blog_data.csv
+Scraping of page-3 completed at 2024-01-16 00:12:13. Data saved to blog_data.csv
+Scraping of page-4 completed at 2024-01-16 00:12:27. Data saved to blog_data.csv
+Scraping of page-5 completed at 2024-01-16 00:12:37. Data saved to blog_data.csv
+Scraping of page-6 completed at 2024-01-16 00:12:47. Data saved to blog_data.csv
+Scraping of page-7 completed at 2024-01-16 00:13:00. Data saved to blog_data.csv
+Scraping of page-8 completed at 2024-01-16 00:13:10. Data saved to blog_data.csv
+Scraping of page-9 completed at 2024-01-16 00:13:20. Data saved to blog_data.csv
