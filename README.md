@@ -45,13 +45,27 @@ accurately structured for easy analysis.
 
 ## Vscode Screenshot 
 
-![vscode_ss](https://github.com/Akash-moon/RateGain_Task/assets/83701120/fca0aa57-d67c-4c1c-a619-cdebfa9fcaec)
+# 1)
+
+![Screenshot (49)](https://github.com/Akash-moon/RateGain_Task/assets/83701120/edeb10c1-cf13-416d-8b04-3a09e38d6ff1)
+
+# 2)
+
+![Screenshot (50)](https://github.com/Akash-moon/RateGain_Task/assets/83701120/80c0a610-314e-448f-9f1b-02264fe7fc69)
+
+# 3)
+
+![Screenshot (51)](https://github.com/Akash-moon/RateGain_Task/assets/83701120/3c035cc9-97f9-467b-8a01-1734955a7e8f)
 
 
 ## CSV File Screenshot
 
 ![Excel_ss](https://github.com/Akash-moon/RateGain_Task/assets/83701120/f959f018-26b3-4b81-957e-4289b90e9a3f)
 
-# Video Link 
+# Old Code Video Link 
 
 ## Link - [Watch Here](https://d8it4huxumps7.cloudfront.net/uploads/submissions/files/595940/656032bdc026b_web_py_wwbscrappython_visual_studio_code_2023_11_24_10_33_31_1.mp4)
+
+# Updated Code Video Link 
+
+## Link - [Watch Here](https://jmp.sh/FwuW4hdn)
